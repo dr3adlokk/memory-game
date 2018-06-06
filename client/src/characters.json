@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Maka",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Evans",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Black Star",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Tsubaki Nakatsukasa",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Death the Kid",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Liz & Patty",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Tsugumi Harudori",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Meme Tatane",
+    "image": "./images/nabooru.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Asura",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Medusa",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Arachne",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Shaula",
+    "image": "../pubic/images/maka.jpg",
+    "clicked": false
+  }
+]
